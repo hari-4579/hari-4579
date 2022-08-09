@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Hari Prasad D
-- 👀 I’m currently interested in Data Science and ML
 - 📫 How to reach me hari.clofc@gmail.com
 
 <!---
